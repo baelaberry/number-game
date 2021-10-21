@@ -1,0 +1,14 @@
+#number-game, #result, #history{
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#history {
+    margin-top: 16px;
+}
+
+.banner {
+    color: grey;
+    font-size: 90px;
+    font-family: sans-serif;
+}
